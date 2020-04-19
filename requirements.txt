@@ -1,0 +1,2 @@
+pytesseract
+python-imageseach-drov0
